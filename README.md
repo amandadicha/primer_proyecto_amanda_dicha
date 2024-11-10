@@ -4,3 +4,5 @@ Nueva seccion
 Conflicto
 segunda prueba main
 segunda prueba
+
+Vinculado con un repositorio remoto de GitHub
